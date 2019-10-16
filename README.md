@@ -19,6 +19,8 @@
 * **xxd** hexdump utility
 * **dd** data destroyer
 * **pv** pipe viewer
+* **watch** konstantno refresha output neke komande
+* **progress** pokaze napredek cp, mv, dd, tar...
 
 &nbsp;
 
@@ -58,6 +60,7 @@
 * **tar** compress: -zcvf extract: -zxvf
 * **rsync** file copying tool -v, -a, -n, --delete, -H
 * **git** boljsi kot subversion
+* **ncdu** za gledanje zasedenosti diska
 
 &nbsp;
 
@@ -69,6 +72,10 @@
 
 * **kicad** pcb design
 * **freecad** parametricni 3d modelirnik
+
+&nbsp;
+
+* **sigrok pulseview** gui logic analyzer software (dela tudi z DS1054Z) (obstaja tudi command-line verzija sigrok-cli)
 
 &nbsp;
 
