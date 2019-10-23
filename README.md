@@ -42,6 +42,7 @@
 * **wireshark** ja
 * **iptables** firewall?
 * **nmap** port scanner $ nmap -p- -sV -v 192.168..
+* **traceroute** trace packets to network host
 
 &nbsp;
 
