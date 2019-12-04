@@ -12,6 +12,7 @@
 * **gdb** najboljsi debugger
 * **radare2** unix-like reverse engineering framework and commandline tools https://github.com/radare/radare2
 * **peda** reverse engineering plugin za gdb https://github.com/longld/peda\
+* **ldd** print shared object dependencies
 
 &nbsp;
 
