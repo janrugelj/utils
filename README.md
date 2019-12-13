@@ -16,6 +16,7 @@
 
 &nbsp;
 
+* **hexedit** editiranje binary file-ov
 * **hexdump** hexdump utility
 * **xxd** hexdump utility
 * **dd** data destroyer
