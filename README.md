@@ -4,6 +4,10 @@
 * **man** manual. uporaba $ man imeprograma
 
 &nbsp;
+* **zsh** z-shell zamenjava za bash, fish ...
+* **oh-my-zsh** plugin za zsh (nujno) https://ohmyz.sh
+
+&nbsp;
 * **gcc** c compiler (all you need) https://gcc.gnu.org/
 * **gcc-arm-none-eabi** gcc za arm
 * **gcc-avr** gcc za avr
@@ -36,10 +40,15 @@
 
 * **xmodmap** za remap tipkovnice
 * **xev**  prints content of X events (printa stevilke pritisnjenih tipk tipkovnice/miske)
+* **sed** stream editor for filtering and transforming text
+* **awk** gawk - pattern scanning and processing language
+* **tr** translate or delete characters
+ 
 
 &nbsp;
 
 * **ssh** secure shell.. -t, -N -L
+* **sshfs** mount ssh filesystem npr. `sshfs -o idmap=user -o ro tc@192.168.2.220:/server/path/ /local/path`
 * **scp** secure copy
 * **screen** dela tudi npr $ screen /dev/ttyUSB0 (ce ti ni vsec ctrl+a napisi v .screenrc escape^Jj )
 * **arp-scan** ARP scanner (layer 2 - datalink layer)
@@ -49,6 +58,9 @@
 * **nmap** port scanner $ nmap -p- -sV -v 192.168..
 * **traceroute** trace packets to network host
 
+&nbsp;
+**webhook.site** naredi webhook, https://webhook.site 
+**cyberchef** dekodiranje base64 in vec https://gchq.github.io/CyberChef/
 &nbsp;
 
 * **uptime** up time
