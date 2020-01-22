@@ -80,6 +80,7 @@
 * **rsync** file copying tool -v, -a, -n, --delete, -H
 * **git** boljsi kot subversion
 * **ncdu** za gledanje zasedenosti diska
+* **id3v2** music metadata tag editor (and viewer)
 
 &nbsp;
 
@@ -91,6 +92,7 @@
 
 * **kicad** pcb design
 * **freecad** parametricni 3d modelirnik
+* **InteractiveHtmlBom** naredi interaktivni BOM iz kicad pcb-ja
 
 &nbsp;
 
