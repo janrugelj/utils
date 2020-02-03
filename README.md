@@ -50,7 +50,9 @@
 * **ssh** secure shell.. -t, -N -L
 * **sshfs** mount ssh filesystem npr. `sshfs -o idmap=user -o ro tc@192.168.2.220:/server/path/ /local/path`
 * **scp** secure copy
+* **tmux** tmux je novejsa alternativa za screen. 
 * **screen** dela tudi npr $ screen /dev/ttyUSB0 (ce ti ni vsec ctrl+a napisi v .screenrc escape^Jj ) screen -dmS 
+* **byobu** byobu je lepsi frontend za tmux in screen
 * **arp-scan** ARP scanner (layer 2 - datalink layer)
 * **netcat** tcp/ip scanner/tool $ nc ip port
 * **wireshark** ja
