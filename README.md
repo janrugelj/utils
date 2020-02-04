@@ -92,8 +92,9 @@
 
 &nbsp;
 
-### video
+### audio, video
 
+* **cmus** terminal music player
 * **youtube-dl** downloadanje yt videov, playlistov... https://github.com/ytdl-org/youtube-dl/
 * **ffmpeg** audio/video converter.. https://en.wikipedia.org/wiki/FFmpeg
 
@@ -101,6 +102,7 @@
 
 ### file managment
 
+* **find** najde datoteke in file-e. npr `sudo find / -xdev -name "*neki*"`
 * **ranger** vi style file manager https://wiki.archlinux.org/index.php/Ranger
 * **ssh** secure shell.. `-t, -N -L`
 * **sshfs** mount ssh filesystem npr. `sshfs -o idmap=user -o ro tc@192.168.2.220:/server/path/ /local/path`
