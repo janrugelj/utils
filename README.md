@@ -83,6 +83,7 @@
 * **nmap** port scanner $ nmap -p- -sV -v 192.168..
 * **traceroute** trace packets to network host
 * **nmcli** command-line tool for controlling NetworkManager
+* **nmtui** text-user-interface tool for controlling NetworkManager
 
 &nbsp;
 
