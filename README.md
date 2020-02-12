@@ -115,6 +115,7 @@
 * **git** boljsi kot subversion
 * **ncdu** zelo lep prikaz velikosti file-ov (tui)
 * **id3v2** music metadata tag editor (and viewer)
+* **shred** prepise file da zabrise njegovo vsebino (lahko ga tudi izbrise)
 
 &nbsp;
 
